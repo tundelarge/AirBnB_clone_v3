@@ -1,4 +1,4 @@
-FROM python:3.4
+FROM python:3.5
 MAINTAINER glyif <122@holbertonschool.com>
 
 RUN git clone https://github.com/glyif/AirBnB_clone_v3.git ~/AirBnB
